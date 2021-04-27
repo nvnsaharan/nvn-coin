@@ -1,2 +1,2 @@
 # nvn-coin
-A simple Python cryptocurrency with blockchain code....:)
+A simple Python cryptocurrency with blockchain code.....:)
